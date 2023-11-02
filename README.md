@@ -9,7 +9,11 @@ Regsosek document is a survey result document of social economic registration. T
 
 ### [Water Feasibility Classification](https://drive.google.com/drive/folders/132S8A9gQmRG5cIqFdh2bIGIFcX33KfKd?usp=sharing)
 
-Used **R** to make Graphical User Interface (GUI) that can cluster data with K-Means Clustering method.
+Using **Python** and **neural random forest** to classify water feasibility (binary) with 38 factors consisting of 11990 entries. Reached **90.83% training accuracy**.
+
+### [Dashboard of Fashion Clothing] (https://drive.google.com/drive/folders/1xejQVa9g3omiYwO7S1qNAyJNJTxf5kLh?usp=sharing)
+
+Individual project to make a dashboard of fashion clothing dataset using **Tableau**. The dataset is taken from kaggle.
 
 ### [K-Means Clustering with GUI R](https://github.com/sandyayesha/GUI-R-KMeans)
 
